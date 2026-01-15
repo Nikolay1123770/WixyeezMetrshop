@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+<color name="purple_primary">#6C63FF</color>
+<color name="purple_light">#8B85FF</color>
+<color name="purple_dark">#4A42E8</color>
+
+<color name="pink_accent">#FF6B9D</color>
+<color name="cyan_accent">#00D9FF</color>
+<color name="gold_accent">#FFD700</color>
+
+<color name="bg_dark">#0D0D1A</color>
+<color name="bg_card">#1A1A2E</color>
+<color name="bg_card_light">#252542</color>
+
+<color name="text_primary">#FFFFFF</color>
+<color name="text_secondary">#B3B3CC</color>
+<color name="text_hint">#666680</color>
+
+<color name="success">#00E676</color>
+<color name="error">#FF5252</color>
+</resources>
